@@ -1,8 +1,5 @@
 /* Intuition
-<!-- In inorder traversal, we visit nodes in the order:  Left → Root → Right.
-So, the idea is simple — start from the root,
- process it first, then recursively traverse the left subtree,
-and finally the right subtree. -->
+<!-- Traversing to the end and start from there to up, and return false only if their data is not same adn they both get into null ata the same node. -->
 
 # Approach
 <!-- Recursive. -->
