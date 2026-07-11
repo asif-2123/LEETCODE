@@ -13,7 +13,7 @@ the total returs root. -->
 <!-- O(n) -->
 
 - Space complexity:
-<!-- O(h) -->
+<!-- O(1) -->
 
 # Code
 ```java [/
