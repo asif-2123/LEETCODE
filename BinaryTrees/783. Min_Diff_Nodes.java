@@ -1,11 +1,9 @@
-/* Intuition
+/* 
+# Approach
 <!-- First denoted the two variables prev which will point to previous node,
 and minDiff which will return the minimum difference between the nodes.
 so first we traversed the Binary Search Tree in Inoder traversal.
 As we traverse we are checking the minDiff and storing it and at last return it. -->
-
-# Approach
-<!-- Recursively inorder traversal.-->
 
 # Complexity
 - Time complexity:
