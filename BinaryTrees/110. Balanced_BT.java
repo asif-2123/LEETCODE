@@ -1,11 +1,9 @@
-/* Intuition
+/* 
+# Approach
 <!--  Initiaalising right and left to traverse the left of the root and right of the root,
 once getting null return 0, and then trace backs to the upper node and 
 checks the max left and right max and add 1 taking its one. And returns true only it the 
 value lies 1 or 0. -->
-
-# Approach
-<!-- Recursive. -->
 
 # Complexity
 - Time complexity:
