@@ -1,10 +1,8 @@
-/* Intuition
+/* 
+# Approach
 <!-- First checking where the first value meets of both the node of subtree and root of tree,
 then traversing both the tree, if anyhow they any of don't get null at same node 
 or any nodes have different values. -->
-
-# Approach
-<!-- Recursively inorder traversal.-->
 
 # Complexity
 - Time complexity:
