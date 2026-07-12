@@ -1,12 +1,10 @@
-/* Intuition
+/* 
+# Approach
 <!-- So first we check if the  root has value same as p or q, if it is then its the lowest common ancestor
 , then we recusively go throught the left tree and find if there both the values are present or not,
 if left tree preceeds too null then return right because it will have a valid value, 
 or if we get there a valid value and both left and right tree returns a non-null value then 
 the total returs root. -->
-
-# Approach
-<!-- Recursive. -->
 
 # Complexity
 - Time complexity:
