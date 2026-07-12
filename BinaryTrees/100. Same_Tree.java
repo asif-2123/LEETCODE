@@ -1,8 +1,6 @@
-/* Intuition
-<!-- Traversing to the end and start from there to up, and return false only if their data is not same and they don't get to null in the same node. -->
-
+/* 
 # Approach
-<!-- Recursive. -->
+<!-- Traversing to the end and start from there to up, and return false only if their data is not same and they don't get to null in the same node. -->
 
 # Complexity
 - Time complexity:
