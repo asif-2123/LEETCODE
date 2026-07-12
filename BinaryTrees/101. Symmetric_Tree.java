@@ -1,4 +1,5 @@
-/* # Approach
+/* 
+# Approach
 <!-- Traversing two sides of nodes as t1 and t2 by going at the end of the node till reaching null
 The recursively checks if the values of their nodes are same then returns true rather false. -->
 
