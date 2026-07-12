@@ -1,11 +1,9 @@
-/* Intuition
+/* 
+# Approach
 <!-- In preorder traversal, we visit nodes in the order: Left → Right → Root.
 So, the idea is simple — start from the left,
  process it first, then recursively traverse the right subtree,
 and finally the root,and again do the same. -->
-
-# Approach
-<!-- Recursive. -->
 
 # Complexity
 - Time complexity:
