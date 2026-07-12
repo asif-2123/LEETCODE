@@ -1,12 +1,10 @@
-/* Intuition
+/* 
+# Approach
 <!-- So initialising maxSum , level and maxLevel we do Level Order traversal.
 Then during making it empty at every levvel adding the nodes value.
 Later checking it with the maxSum if it's more then giving it value in maxSum.
 Also changing the maxLevel with level. After all this level increases.
 And after that returning the maxLevel.-->
-
-# Approach
-<!-- Recursive. -->
 
 # Complexity
 - Time complexity:
