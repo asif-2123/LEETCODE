@@ -1,10 +1,8 @@
-/* Intuition
+/* 
+# Approach
 <!--Traversing to the extreme right and extreme left,
 and at every node calculate diameter and store only if it is more between sum of 
 left height and right height. -->
-
-# Approach
-<!-- Recursively inorder traversal.-->
 
 # Complexity
 - Time complexity:
