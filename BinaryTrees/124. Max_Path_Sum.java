@@ -1,7 +1,10 @@
 /* 
 # Approach
-<!-- Traversing two sides of nodes as t1 and t2 by going at the end of the node till reaching null
-The recursively checks if the values of their nodes are same then returns true rather false. -->
+<!-- Making a helper function where we assign left and right and 
+add the max path of 0 or the left root/ right root to eleminate negative.
+Then check the maximum between the maxSum and the addition of left, right and root value,
+and assign it to the max sum. 
+and return the root the max of left or right with its own valueto detect path. -->
 
 # Complexity
 - Time complexity:
