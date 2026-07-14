@@ -15,6 +15,21 @@ The recursively checks if the values of their nodes are same then returns true r
 */
 
 // Definition for a binary tree node. public class TreeNode {
+class TreeNode {
+    int val;
+    TreeNode left;
+    TreeNode right;
+    TreeNode() {}
+    TreeNode(int val) { this.val = val; }
+    TreeNode(int val, TreeNode left, TreeNode right) {
+        this.val = val;
+        this.left = left;
+        this.right = right;
+    }
+}
+
+// This is the answer -->
+
 class Solution {
     public boolean isSymmetric(TreeNode root) {
         if(root==null) return true;
