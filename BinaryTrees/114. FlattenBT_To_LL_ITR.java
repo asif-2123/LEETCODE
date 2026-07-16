@@ -14,7 +14,7 @@ It will do untill the root goes to null. -->
 <!-- O(n) -->
 
 - Space complexity:
-<!-- O(h) -->
+<!-- O(1) -->
 
 # Code
 ```java [/
