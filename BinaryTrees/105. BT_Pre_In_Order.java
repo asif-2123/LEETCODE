@@ -3,7 +3,7 @@
 <!-- Identifying root from preorder, since it always the first element,
 then locate it in the inorder
 and get the left of it are of left subtree and right of it are of right subtree,
-then start to store on left untill null returns
+then start to store on left till the left subtree fills
 and same goes for right. -->
 
 
