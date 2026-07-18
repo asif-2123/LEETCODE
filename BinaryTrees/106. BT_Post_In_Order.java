@@ -6,7 +6,6 @@ and get the left of it are of left subtree and right of it are of right subtree,
 then start to store on right till right subtree fills
 and same goes for left. -->
 
-
 # Complexity
 - Time complexity:
 <!-- O(n^2) -->
