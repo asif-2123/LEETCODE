@@ -2,15 +2,13 @@ package Binary_Search_Trree;
 
 /*
 # Approach
-<!-- First we declared an variable count as 0 and result as -1.
-Then traverse through left and increase count untill null and
-if count becomes k we assign result as root value.
-And do same as traverse through right and getting result,
-we simply return the value -->
+<!-- So we go through left and right subtree finding p and q.
+When we got then return that and if its same in root or root is null then return root.
+If going through left subtree we get null then we return right subtree and vice versa.-->
 
 # Complexity
 - Time complexity:
-<!-- O(n) -->
+<!-- O(log nn) -->
 
 - Space complexity:
 <!-- O(log n) -->
